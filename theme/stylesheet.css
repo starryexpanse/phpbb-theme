@@ -18,7 +18,7 @@ html {
 body {
 	color: #CCCCCC;
 	font-size: 10px;
-	background: #000 url("./images/theme/wod.jpg") no-repeat 49.999% 0;
+	background: #000 url("./images/theme/selogo.png") no-repeat 49.999% 0;
 	margin: 0;
 	padding: 0;
 	overflow-y: scroll;
@@ -2890,7 +2890,7 @@ body.pbwow3 {
 
 body.pbwow3 #logo {
 	background-image: none;
-	width: 266px;
+	width: 380px;
 	height: 126px;
 	margin: 15px 10px 10px -10px;
 }
@@ -2905,7 +2905,7 @@ body.pbwow3 #page-body:before {
 
 @media only screen and (max-width: 999px), only screen and (max-device-width: 999px) {
 	body.pbwow3 {
-		background-image: url("./images/theme/wod-small.jpg");
+		background-image: url("./images/theme/selogo-small.jpg");
 		background-position: 0 0;
 	}
 
